@@ -1,0 +1,5 @@
+{
+  "name": "CNST PRF - Check de Backoffice N1",
+  "description": "Aplicativo de checklist obrigatório para a equipe de Backoffice N1, com relatórios via WhatsApp.",
+  "requestFramePermissions": []
+}
